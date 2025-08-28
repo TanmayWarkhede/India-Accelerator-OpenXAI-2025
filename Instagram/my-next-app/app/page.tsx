@@ -20,7 +20,7 @@ export default function Logo() {
         height={40}
         className="w-10 h-10"
       /> */}
-      <p className="font-bold text-4xl">We are building the Project</p>
+      <p className="font-bold text-4xl">Linker</p>
       <UrlInput />
     </div>
   );
